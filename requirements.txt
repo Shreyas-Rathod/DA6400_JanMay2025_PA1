@@ -1,0 +1,8 @@
+gymnasium==0.29.1
+numpy==1.26.0
+matplotlib==3.7.2
+pandas==2.0.3
+seaborn==0.12.2
+tqdm==4.66.1
+# Only needed for the bonus task
+minigrid==2.3.0
